@@ -1,0 +1,67 @@
+.header {
+    color: #000000;
+}
+.title {
+    font-size: 30px;
+}
+.button {
+    background-color: #f24f26;
+    border: none
+}
+.logo {
+    float: left; 
+}
+.form {
+    float : right 
+ }
+ .fontheader {
+     margin: 10px;
+     font-family: arial;
+     color: #6f6f70;
+     text-decoration: none;
+     font-weight: 400
+ }
+ .fontmenu {
+     font-family: arial; 
+ }
+ .buttonmenu {
+     background-color: #0a60af;
+     border : none;
+     color: #000000;
+     padding: 13px 30px;
+     text-align: center;
+     margin-right: 6px;
+     cursor : pointer;
+        
+ }
+ .imglogo {
+    width: 86px;
+    margin: 14px;
+ }
+
+ .menu {
+    margin: 70px;
+    font-family: arial;
+    color: #6f6f70;
+ }
+
+.spacemenu {
+    margin : 20px
+}
+
+.wargaku {
+    margin: 21px;
+    font-family: arial;
+    color: #6f6f70;
+    font-size: 20;
+}
+
+.headerlogo {
+    padding: 15px;
+}
+
+.logoheader {
+    width: 60px;
+}
+   
+     
